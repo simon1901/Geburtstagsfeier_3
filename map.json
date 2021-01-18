@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/simon1901.github.io\/Geburtstagsfeier_1\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/simon1901.github.io\/Geburtstagsfeier_1\/map.json#EingangGarten"
                 }],
          "type":"tilelayer",
          "visible":true,
